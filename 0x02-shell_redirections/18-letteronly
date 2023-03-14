@@ -1,2 +1,2 @@
 #!/bin/bash
-grep ^[[:upper:]]|^[[:lower:]] /etc/ssh/sshd_config
+echo "Best School" > \\*\\""Best School"\"\\\*\$\\?\\\\\\\\*\:\)
